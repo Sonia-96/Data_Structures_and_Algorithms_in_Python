@@ -4,16 +4,18 @@ My implementation of **Data Structures &amp; Algorithms** in Python.
 X-mind：
 
 ## 数据结构：
-1. 数组 (list)
-2. 链表 (linked list)
-3. [树 (tree)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Binary%20Tree.ipynb)
+1. 数组 (list)（略）
+2. 链表 (linked list)（略）
+3. [二叉树和二叉查找树(binary tree & binary searchtree)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Binary%20Tree.ipynb)
 4. [堆和堆排序 (heap and heap sort)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Heap%20and%20Heap%20Sort.ipynb)
 5. [并查集/不相交集合 (disjointed sets)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Disjointed%20Sets.ipynb)
-6. 栈和队列 (stack & queue)
-7. 哈希表 (hashing table)
+6. 栈和队列 (stack & queue)（略）
+7. 哈希表 (hashing table)（略）
 
 ## 算法：
-1. 排序与查找 (search and sort)
+1. [排序与查找 (search and sort)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Algorithms/Search%20and%20Sort.ipynb)
+  - 排序：选择排序、冒泡排序、插入排序、希尔排序、归并排序、快速排序、三区快速排序、计数排序
+  - 查找：线性查找、二分查找
 2. 递归和循环 (recursion and iteration)
 3. 算法思想
   - 贪心策略 (greedy algorithm)
