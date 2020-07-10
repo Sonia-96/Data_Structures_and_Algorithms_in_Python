@@ -6,8 +6,8 @@ X-mind：
 ## 数据结构：
 1. 数组 (list)
 2. 链表 (linked list)
-3. 树 (tree)
-4. 堆和堆排序 (heap and heap sort)
+3. [树 (tree)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Binary%20Tree.ipynb)
+4. [堆和堆排序 (heap and heap sort)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Heap%20and%20Heap%20Sort.ipynb)
 5. [并查集/不相交集合 (disjointed sets)](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/Data%20Structures/Disjointed%20Sets.ipynb)
 6. 栈和队列 (stack & queue)
 7. 哈希表 (hashing table)
