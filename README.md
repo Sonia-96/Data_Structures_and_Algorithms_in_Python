@@ -1,6 +1,5 @@
 # Data_Structures_and_Algorithms_in_Python
-My implementation of **Data Structures &amp; Algorithms** in Python.
-
+数据结构与算法的python实现。
 知识架构：[数据结构与算法总结.xmind](https://github.com/Sonia-96/Data_Structures_and_Algorithms_in_Python/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.xmind)
 
 ## 数据结构：
